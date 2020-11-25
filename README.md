@@ -5,10 +5,6 @@
         TTC_HK416Tan, 		W, 	20000, 7500
 	    TTC_HK416OD, 		W, 	20000, 7500
 	    TTC_HK416Black, 		W, 	20000, 7500
-        TTC_AACHoney, 		W, 	20000, 7500
-	    TTC_AACHoney_B, 		W, 	20000, 7500
-	    TTC_AACHoney_300blk, 	W, 	20000, 7500
-	    TTC_AACHoney_300blk_B, 	W, 	20000, 7500
         TTC_SG552, 			W, 	20000, 7500
 	    TTC_SG552_Wood, 		W, 	20000, 7500
 	    TTC_SG552_Black, 		W, 	20000, 7500
@@ -27,6 +23,10 @@
     <Category> Sub Machine Guns
     
         TTC_KAC, 			W, 	20000, 7500
+	    TTC_AACHoney, 		W, 	20000, 7500
+	    TTC_AACHoney_B, 		W, 	20000, 7500
+	    TTC_AACHoney_300blk, 	W, 	20000, 7500
+	    TTC_AACHoney_300blk_B, 	W, 	20000, 7500
         
     <Category> Designated Marksmen Rifles
     
