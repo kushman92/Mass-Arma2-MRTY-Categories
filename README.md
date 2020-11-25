@@ -64,4 +64,26 @@
 	    
     <Category> Explosives 
     
-   
+    <Category> Arma 2 Magazines
+    
+            A2KSVK_Magazine
+            A2Colt1911_Magazine
+            A2Glock17_Magazine
+            A2M4SPR_Magazine
+            A2FNFAL_Magazine
+            A2UZI_Magazine
+            A2M60E4_Magazine
+            A2LRRAWM_Magazine
+            A2M9_Magazine
+            A2PKM_Magazine
+            A2M249_Magazine
+            A2AA12_Magazine
+            A2M40A3_Magazine
+            A2M107_Magazine
+            A2MK48_Magazine
+            m240_magazine
+            bizon_magazine
+            A2AS50_Magazine
+            A2mk17_mag
+            A2WM110_mag
+            A2M14_DMRMAG
