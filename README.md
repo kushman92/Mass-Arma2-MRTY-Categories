@@ -43,10 +43,6 @@
       
     <Category> Sniper Rifles
     
-        TTC_M24, 			W, 	40000, 7500
-	    TTC_M24_Bjorn, 		W, 	40000, 7500
-	    TTC_M24_Woodland, 		W, 	40000, 7500
-	    TTC_M24_WoodlandOld, 	W, 	40000, 7500
         TTC_MAS36, 			W, 	20000, 7500
 	    TTC_Winchester1873, 	W, 	20000, 7500
 	    TTC_kar98k, 		W, 	20000, 7500
@@ -58,3 +54,11 @@
     
     <Category> Shotguns
     
+    <Cateogry> Black Market Goods
+    	
+	    TTC_Beowulf, 		W, 	40000, 7500
+	    TTC_M24, 			W, 	40000, 7500
+	    TTC_M24_Bjorn, 		W, 	40000, 7500
+	    TTC_M24_Woodland, 		W, 	40000, 7500
+	    TTC_M24_WoodlandOld, 	W, 	40000, 7500
+   
