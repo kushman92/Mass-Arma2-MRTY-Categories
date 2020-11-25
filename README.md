@@ -54,11 +54,14 @@
     
     <Category> Shotguns
     
-    <Cateogry> Black Market Goods
+    <Cateogry> High Powered Rifles
     	
 	    TTC_Beowulf, 		W, 	40000, 7500
 	    TTC_M24, 			W, 	40000, 7500
 	    TTC_M24_Bjorn, 		W, 	40000, 7500
 	    TTC_M24_Woodland, 		W, 	40000, 7500
 	    TTC_M24_WoodlandOld, 	W, 	40000, 7500
+	    
+    <Category> Explosives 
+    
    
