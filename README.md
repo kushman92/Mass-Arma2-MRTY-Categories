@@ -87,3 +87,15 @@
             A2mk17_mag
             A2WM110_mag
             A2M14_DMRMAG
+
+    <Category> Optics
+      
+      DMRScope
+      LrrScope
+      A2M4SPRScope
+      
+    <Category> Supressors + Ammo
+      
+      A2Suppressor
+      Ammo_50Cal
+      Ammo_12x7mm
