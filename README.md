@@ -20,7 +20,7 @@
         TTC_M16A4, 			W, 	20000, 7500
         
       
-    <Category> Sub Machine Guns
+    <Category> Personal Defense Weapons
     
         TTC_KAC, 			W, 	20000, 7500
 	    TTC_AACHoney, 		W, 	20000, 7500
@@ -53,4 +53,8 @@
 	    TTC_R700, 			W, 	20000, 7500
       
     <Category> Light Machine Guns
+    
+    <Category> Handguns
+    
+    <Category> Shotguns
     
