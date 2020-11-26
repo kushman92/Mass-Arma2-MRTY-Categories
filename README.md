@@ -169,10 +169,10 @@
         A2UZI_Magazine		*,	1000,	5
         A2M60E4_Magazine		*,	1000,	5
         A2LRRAWM_Magazine		*,	1000,	5
-        A2M9_Magazine			*,	1000,	5
-        A2PKM_Magazine			*,	1000,	5
-        A2M249_Magazine			*,	1000,	5
-        A2AA12_Magazine			*,	1000,	5
+        A2M9_Magazine		*,	1000,	5
+        A2PKM_Magazine		*,	1000,	5
+        A2M249_Magazine		*,	1000,	5
+        A2AA12_Magazine		*,	1000,	5
         A2M40A3_Magazine		*,	1000,	5
         A2M107_Magazine		*,	1000,	5
         A2MK48_Magazine		*,	1000,	5
