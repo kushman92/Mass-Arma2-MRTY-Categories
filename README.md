@@ -1,4 +1,4 @@
-# MRTY-Categories
+# Morty-Mass-Arma2-Weapons-Combined-Categorized
 
     <Category> Assault Rifles
     
