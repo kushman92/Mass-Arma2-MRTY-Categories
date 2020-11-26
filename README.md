@@ -25,6 +25,9 @@
 	    MassAR15,			W,      20000, 7500
 	    MassAR500,		        W,	20000, 7500
 	    MassM4A1,			W,	20000, 7500
+	    MassB52,			W,	20000, 7500	
+	    MassPpskn,			W,	20000, 7500	
+		
 	
     <Category> Personal Defense Weapons
     
@@ -36,6 +39,10 @@
         A2bizon,		        W,	20000, 7500
 	    A2MicroUzi,		        W,	20000, 7000
 	    A2MicroUziSD,		W,	20000, 7000
+	    MassPPSH41,			W,	20000, 7000	
+	    MassPPSH41_Black,		W,	20000, 7000	
+	    MassPPSH41_Green,		W,	20000, 7000	
+	    MassPPSH41_Camo,		W,	20000, 7000	
    
     <Category> Designated Marksmen Rifles
     
@@ -75,8 +82,7 @@
 	    MassScout556,		W,	20000, 5000
 	    Massm300,			W,	20000, 7500	
 	    Massm300_camo,		W,	20000, 7500	
-	    
-      
+	   
     <Category> Light Machine Guns
     
         A2PKM,              	W,      20000, 7500
@@ -94,7 +100,7 @@
     <Category> Shotguns
     
         A2AA12,			W,	200000, 7500
-	Massarmsan,		W,	200000,	7500
+	    Massarmsan,		W,	200000,	7500
 
     <Cateogry> High Powered Rifles
     	
