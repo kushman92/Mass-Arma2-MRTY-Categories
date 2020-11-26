@@ -96,9 +96,9 @@
 
     <Category> Explosives and Launchers
     
-    	A2M32,		    	W,		800,	400
+        A2M32,		    	W,	800,	400
 	
-    <Category> Arma 2 Magazines
+    <Category> Magazines
     
         A2KSVK_Magazine
         A2Colt1911_Magazine
@@ -121,6 +121,14 @@
         A2mk17_mag
         A2WM110_mag
         A2M14_DMRMAG
+	    Scout556mag,				*,		1000,	5	
+	    kivaarimag,					*,		1000,	5	
+	    Mass308STANAG,				*,		1000,	5	
+	    Mass762Stanag,				*,		1000,	5	
+	    Massppshdrum,				*,		1000,	5	
+	    Massppshbox,				*,		1000,	5	
+	    MassSVTmag,					*,		1000,	5	
+	    Massm300mag					*,		1000,	5
 
     <Category> Optics
       
