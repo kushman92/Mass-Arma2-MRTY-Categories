@@ -121,14 +121,14 @@
         A2mk17_mag
         A2WM110_mag
         A2M14_DMRMAG
-	    Scout556mag,				*,		1000,	5	
-	    kivaarimag,					*,		1000,	5	
-	    Mass308STANAG,				*,		1000,	5	
-	    Mass762Stanag,				*,		1000,	5	
-	    Massppshdrum,				*,		1000,	5	
-	    Massppshbox,				*,		1000,	5	
-	    MassSVTmag,					*,		1000,	5	
-	    Massm300mag					*,		1000,	5
+	    Scout556mag,		*,	1000,	5	
+	    kivaarimag,			*,	1000,	5	
+	    Mass308STANAG,		*,	1000,	5	
+	    Mass762Stanag,		*,	1000,	5	
+	    Massppshdrum,		*,	1000,	5	
+	    Massppshbox,		*,	1000,	5	
+	    MassSVTmag,			*,	1000,	5	
+	    Massm300mag			*,	1000,	5
 
     <Category> Optics
       
