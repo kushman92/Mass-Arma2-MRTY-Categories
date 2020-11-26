@@ -1,4 +1,4 @@
-# Morty-Mass-Arma2-Weapons-Combined-Categorized
+# Morty-Mass-Arma2-Combined-Categorized
 
     <Category> Assault Rifles
     
@@ -77,7 +77,8 @@
     
         A2Glock17,		    	W,	20000, 5000
 	    A2Colt1911,		    	W,	20000, 5000
-	
+	    A2M9,                       W,      20000, 5000
+	 
     <Category> Shotguns
     
         A2AA12,			W,	200000, 7500
@@ -91,7 +92,8 @@
 	    TTC_M24_WoodlandOld, 	W, 	40000, 7500
 	    A2AS50,			W,	50000, 7500
 	    A2M107,			W,	75000, 10000
-	    
+	    A2KSVK,		    	W,	80000, 15000
+
     <Category> Arma 2 Magazines
     
         A2KSVK_Magazine
