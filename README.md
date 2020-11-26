@@ -161,12 +161,12 @@
 	    
     <Category> Magazines
     
-        A2KSVK_Magazine			*,	1000,	5
+        A2KSVK_Magazine		*,	1000,	5
         A2Colt1911_Magazine		*,	1000,	5
         A2Glock17_Magazine		*,	1000,	5
         A2M4SPR_Magazine		*,	1000,	5
         A2FNFAL_Magazine		*,	1000,	5
-        A2UZI_Magazine			*,	1000,	5
+        A2UZI_Magazine		*,	1000,	5
         A2M60E4_Magazine		*,	1000,	5
         A2LRRAWM_Magazine		*,	1000,	5
         A2M9_Magazine			*,	1000,	5
