@@ -24,6 +24,7 @@
 	    A2AK74S,                    W,      20000, 7500
 	    MassAR15,			W,      20000, 7500
 	    MassAR500,		        W,	20000, 7500
+	    MassM4A1,			W,	20000, 7500
 	
     <Category> Personal Defense Weapons
     
@@ -56,6 +57,10 @@
 	    A2mk17_s,			W,	20000, 7500
 	    A2M4SPR,		        W,	20000, 7500
 	    MassM110,			W,      20000, 7500
+	    MassSVT40,			W,      20000, 7500	
+	    MassSVT40_Black,		W,	20000, 7500
+	    MassSVT40_Green,		W,	20000, 7500
+	    MassSVT40_Camo,		W,	20000, 7500
       
     <Category> Sniper Rifles
     
