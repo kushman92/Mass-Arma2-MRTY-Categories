@@ -90,7 +90,7 @@
 	    VSS_GreenCamo, 		W, 	20000, 7500
 	    SKS_RedCamo, 		W, 	20000, 7500
 	    SKS_BlueCamo, 		W, 	20000, 7500
-            SKS_GreenCamo, 		W, 	20000, 7500
+        SKS_GreenCamo, 		W, 	20000, 7500
       
     <Category> Rifles
     
