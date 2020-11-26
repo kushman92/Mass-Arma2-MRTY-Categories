@@ -161,16 +161,16 @@
 	    
     <Category> Magazines
     
-        A2KSVK_Magazine
-        A2Colt1911_Magazine
-        A2Glock17_Magazine
-        A2M4SPR_Magazine
+        A2KSVK_Magazine			*,	1000,	5
+        A2Colt1911_Magazine		*,	1000,	5
+        A2Glock17_Magazine		*,	1000,	5
+        A2M4SPR_Magazine		*,	1000,	5
         A2FNFAL_Magazine		*,	1000,	5
-        A2UZI_Magazine		*,	1000,	5
+        A2UZI_Magazine			*,	1000,	5
         A2M60E4_Magazine		*,	1000,	5
         A2LRRAWM_Magazine		*,	1000,	5
-        A2M9_Magazine		*,	1000,	5
-        A2PKM_Magazine
+        A2M9_Magazine			*,	1000,	5
+        A2PKM_Magazine			*,	1000,	5
         A2M249_Magazine			*,	1000,	5
         A2AA12_Magazine			*,	1000,	5
         A2M40A3_Magazine		*,	1000,	5
@@ -179,9 +179,9 @@
         m240_magazine		*,	1000,	5
         bizon_magazine		*,	1000,	5
         A2AS50_Magazine		*,	1000,	5
-        A2mk17_mag		*,	1000,	5
-        A2WM110_mag		*,	1000,	5
-        A2M14_DMRMAG		*,	1000,	5
+        A2mk17_mag			*,	1000,	5
+        A2WM110_mag			*,	1000,	5
+        A2M14_DMRMAG			*,	1000,	5
 	    Scout556mag,		*,	1000,	5	
 	    kivaarimag,			*,	1000,	5	
 	    Mass308STANAG,		*,	1000,	5	
