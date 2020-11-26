@@ -1,4 +1,4 @@
-# Morty-Mass-Arma2-Combined-Categorized
+# Morty-Mass-Arma2-CZ-Combined-Categorized
 
     <Category> Assault Rifles
     
