@@ -22,6 +22,8 @@
         A2G36_C,			W,	20000, 7500
         A2MK16,			W,	20000, 7500
 	    A2AK74S,                    W,      20000, 7500
+	    MassAR15,			W,      20000, 7500
+	    MassAR500,		        W,	20000, 7500
 	
     <Category> Personal Defense Weapons
     
@@ -53,6 +55,7 @@
 	    A2mk17,			W,	20000, 7500
 	    A2mk17_s,			W,	20000, 7500
 	    A2M4SPR,		        W,	20000, 7500
+	    MassM110,			W,      20000, 7500
       
     <Category> Sniper Rifles
     
@@ -63,6 +66,9 @@
 	    A2M40A3,			W,	20000, 7500
 	    A2LRRAWM,           	W,      20000, 7500
 	    A2LeeEnfield,		W,	20000, 7500
+	    MassScout556,		W,	20000, 5000
+	    Massm300,			W,	20000, 7500	
+	    Massm300_camo,		W,	20000, 7500	
 	    
       
     <Category> Light Machine Guns
@@ -93,6 +99,7 @@
 	    A2AS50,			W,	50000, 7500
 	    A2M107,			W,	75000, 10000
 	    A2KSVK,		    	W,	80000, 15000
+	    MassKivaari,		W,	40000, 7500	
 
     <Category> Explosives and Launchers
     
