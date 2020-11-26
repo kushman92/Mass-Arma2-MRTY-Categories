@@ -26,8 +26,17 @@
 	    MassAR500,		        W,	20000, 7500
 	    MassM4A1,			W,	20000, 7500
 	    MassB52,			W,	20000, 7500	
-	    MassPpskn,			W,	20000, 7500	
-		
+	    MassPpskn,			W,	20000, 7500
+	    M4A1_RedCamo,     		W, 	20000, 7500
+	    AKM_RedCamo,      		W, 	20000, 7500
+	    AK74_RedCamo, 		W, 	20000, 7500
+	    M4A1_BlueCamo, 		W,      20000, 7500
+	    AKM_BlueCamo, 		W,      20000, 7500
+	    AK74_BlueCamo, 		W, 	20000, 7500
+	    M4A1_GreenCamo, 		W, 	20000, 7500
+	    AKM_GreenCamo, 		W, 	20000, 7500
+	    AK74_GreenCamo, 		W, 	20000, 7500
+	    
 	
     <Category> Personal Defense Weapons
     
@@ -42,7 +51,14 @@
 	    MassPPSH41,			W,	20000, 7000	
 	    MassPPSH41_Black,		W,	20000, 7000	
 	    MassPPSH41_Green,		W,	20000, 7000	
-	    MassPPSH41_Camo,		W,	20000, 7000	
+	    MassPPSH41_Camo,		W,	20000, 7000
+	    MP5K_RedCamo, 		W, 	20000, 7500
+	    UMP45_RedCamo, 		W, 	20000, 7500
+	    MP5K_BlueCamo, 		W, 	20000, 7500
+	    UMP45_BlueCamo, 		W, 	20000, 7500
+	    MP5K_GreenCamo, 		W, 	20000, 7500
+	    UMP45_GreenCamo, 		W, 	20000, 7500
+	
    
     <Category> Designated Marksmen Rifles
     
@@ -69,8 +85,14 @@
 	    MassSVT40_Green,		W,	20000, 7500
 	    MassSVT40_Camo,		W,	20000, 7500
 	    Massmini14,			W,	20000, 7500
+	    VSS_RedCamo, 		W, 	20000, 7500
+	    VSS_BlueCamo,	 	W, 	20000, 7500
+	    VSS_GreenCamo, 		W, 	20000, 7500
+	    SKS_RedCamo, 		W, 	20000, 7500
+	    SKS_BlueCamo, 		W, 	20000, 7500
+            SKS_GreenCamo, 		W, 	20000, 7500
       
-    <Category> Sniper Rifles
+    <Category> Rifles
     
         TTC_MAS36, 			W, 	20000, 7500
 	    TTC_Winchester1873, 	W, 	20000, 7500
@@ -81,7 +103,17 @@
 	    A2LeeEnfield,		W,	20000, 7500
 	    MassScout556,		W,	20000, 5000
 	    Massm300,			W,	20000, 7500	
-	    Massm300_camo,		W,	20000, 7500	
+	    Massm300_camo,		W,	20000, 7500
+	    MOSIN9130_RedCamo, 		W, 	20000, 7500
+	    MOSIN9130_BlueCamo, 	W, 	20000, 7500
+	    MOSIN9130_GreenCamo, 	W, 	20000, 7500
+	    WINCHESTER70_RedCamo, 	W, 	20000, 7500
+	    WINCHESTER70_BlueCamo, 	W, 	20000, 7500
+	    WINCHESTER70_GreenCamo, 	W, 	20000, 7500
+	    CZ527_RedCamo, 		W, 	20000, 7500
+	    CZ527_BlueCamo, 		W, 	20000, 7500
+	    CZ527_GreenCamo, 		W, 	20000, 7500
+	    
 	   
     <Category> Light Machine Guns
     
@@ -101,6 +133,9 @@
     
         A2AA12,			W,	20000, 7500
 	    Massarmsan,		        W,	20000, 7500
+	    IZH18_RedCamo, 		W, 	20000, 7500
+	    IZH18_BlueCamo, 		W, 	20000, 7500
+	    IZH18_GreenCamo, 		W, 	20000, 7500
 
     <Cateogry> High Powered Rifles
     	
@@ -116,31 +151,37 @@
 
     <Category> Explosives and Launchers
     
-        A2M32,		    	W,	800,	400
-	
+        A2M32,		    	W,     50000, 25000
+	    LAW_RedCamo, 		W,     50000, 25000
+	    LAW_GreenCamo,  		W,     50000, 25000
+	    LAW_BlueCamo,		W,     50000, 25000
+	    RPG_BlueCamo, 		W,     50000, 25000
+	    RPG_GreenCamo,		W,     50000, 25000
+	    RPG_RedCamo, 		W,     50000, 25000
+	    
     <Category> Magazines
     
         A2KSVK_Magazine
         A2Colt1911_Magazine
         A2Glock17_Magazine
         A2M4SPR_Magazine
-        A2FNFAL_Magazine
-        A2UZI_Magazine
-        A2M60E4_Magazine
-        A2LRRAWM_Magazine
-        A2M9_Magazine
+        A2FNFAL_Magazine		*,	1000,	5
+        A2UZI_Magazine		*,	1000,	5
+        A2M60E4_Magazine		*,	1000,	5
+        A2LRRAWM_Magazine		*,	1000,	5
+        A2M9_Magazine		*,	1000,	5
         A2PKM_Magazine
-        A2M249_Magazine
-        A2AA12_Magazine
-        A2M40A3_Magazine
-        A2M107_Magazine
-        A2MK48_Magazine
-        m240_magazine
-        bizon_magazine
-        A2AS50_Magazine
-        A2mk17_mag
-        A2WM110_mag
-        A2M14_DMRMAG
+        A2M249_Magazine			*,	1000,	5
+        A2AA12_Magazine			*,	1000,	5
+        A2M40A3_Magazine		*,	1000,	5
+        A2M107_Magazine		*,	1000,	5
+        A2MK48_Magazine		*,	1000,	5
+        m240_magazine		*,	1000,	5
+        bizon_magazine		*,	1000,	5
+        A2AS50_Magazine		*,	1000,	5
+        A2mk17_mag		*,	1000,	5
+        A2WM110_mag		*,	1000,	5
+        A2M14_DMRMAG		*,	1000,	5
 	    Scout556mag,		*,	1000,	5	
 	    kivaarimag,			*,	1000,	5	
 	    Mass308STANAG,		*,	1000,	5	
