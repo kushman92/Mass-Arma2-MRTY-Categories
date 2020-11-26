@@ -121,8 +121,8 @@
     <Category> Supressors + Ammo
       
         A2Suppressor 		*,	1000,	5
-	    MassScoutSuppressor,*,	1000,	5	
-	    shotgun_Suppressor,	*,	1000,	5	
-	    MassSuppressor308,	*,	1000,	5
+	    MassScoutSuppressor,      *,	1000,	5	
+	    shotgun_Suppressor,	      *,	1000,	5	
+	    MassSuppressor308,	      *,	1000,	5
             Ammo_50Cal   		
             Ammo_12x7mm	        
