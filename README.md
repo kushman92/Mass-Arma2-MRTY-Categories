@@ -181,7 +181,7 @@
         A2AS50_Magazine		*,	1000,	5
         A2mk17_mag			*,	1000,	5
         A2WM110_mag			*,	1000,	5
-        A2M14_DMRMAG			*,	1000,	5
+        A2M14_DMRMAG		*,	1000,	5
 	    Scout556mag,		*,	1000,	5	
 	    kivaarimag,			*,	1000,	5	
 	    Mass308STANAG,		*,	1000,	5	
