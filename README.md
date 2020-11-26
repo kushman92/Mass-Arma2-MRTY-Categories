@@ -100,7 +100,7 @@
     <Category> Shotguns
     
         A2AA12,			W,	20000, 7500
-	    Massarmsan,		    W,	20000, 7500
+	    Massarmsan,		        W,	20000, 7500
 
     <Cateogry> High Powered Rifles
     	
