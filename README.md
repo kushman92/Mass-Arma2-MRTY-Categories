@@ -21,6 +21,7 @@
         A2M16A4,			W,      20000, 7500
         A2G36_C,			W,	20000, 7500
         A2MK16,			W,	20000, 7500
+	    A2AK74S,                    W,      20000, 7500
 	
     <Category> Personal Defense Weapons
     
@@ -49,6 +50,8 @@
 	    A2WM110_desert,		W,	40000, 7500
 	    A2WM110_black,		W,	40000, 7500
 	    A2FNFAL,		        W,	20000, 7500
+	    A2mk17,			W,	20000, 7500
+	    A2mk17_s,			W,	20000,  7500
 	    
       
     <Category> Sniper Rifles
@@ -86,7 +89,8 @@
 	    TTC_M24_Bjorn, 		W, 	40000, 7500
 	    TTC_M24_Woodland, 		W, 	40000, 7500
 	    TTC_M24_WoodlandOld, 	W, 	40000, 7500
-	    A2AS50,			W,	40000, 7500
+	    A2AS50,			W,	50000, 7500
+	    A2M107,			W,	75000, 10000
 	    
     <Category> Arma 2 Magazines
     
