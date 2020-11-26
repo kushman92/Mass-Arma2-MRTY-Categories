@@ -51,8 +51,8 @@
 	    A2WM110_black,		W,	40000, 7500
 	    A2FNFAL,		        W,	20000, 7500
 	    A2mk17,			W,	20000, 7500
-	    A2mk17_s,			W,	20000,  7500
-	    
+	    A2mk17_s,			W,	20000, 7500
+	    A2M4SPR,		        W,	20000, 7500
       
     <Category> Sniper Rifles
     
@@ -94,6 +94,10 @@
 	    A2M107,			W,	75000, 10000
 	    A2KSVK,		    	W,	80000, 15000
 
+    <Category> Explosives and Launchers
+    
+    	A2M32,		    	W,		800,	400
+	
     <Category> Arma 2 Magazines
     
         A2KSVK_Magazine
